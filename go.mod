@@ -1,4 +1,4 @@
-module git@github.com:cowardmrx/gin_cors
+module github.com/cowardmrx/gin_cors
 
 go 1.17
 
